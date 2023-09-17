@@ -2,6 +2,8 @@
 
 ![ponlponl123-arona](https://github.com/ponlponl123/ponlponl123/blob/main/assets/ponlponl123-arona.png)
 
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Ponlponl123&data=followers,repositories,stars,commits)](https://github.com/Jurredr/github-widgetbox)
+
 <!--
 **ponlponl123/ponlponl123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
