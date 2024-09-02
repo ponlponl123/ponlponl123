@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![ponlponl123-arona](https://github.com/ponlponl123/ponlponl123/blob/main/assets/ponlponl123-rebrand.png)
+![ponlponl123-arona](https://github.com/ponlponl123/ponlponl123/blob/main/assets/ponlponl123-rebrand_2024.png)
 
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Ponlponl123&data=followers,repositories,stars,commits)](https://github.com/Jurredr/github-widgetbox)
 
