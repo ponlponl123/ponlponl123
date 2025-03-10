@@ -48,7 +48,7 @@ curl https://api.ponlponl123.com/v1/who-i-am 443
 }
 ```
 
-### 🤖 Languages
+<!-- ### 🤖 Languages
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -94,7 +94,7 @@ curl https://api.ponlponl123.com/v1/who-i-am 443
 ![FreeBSD](https://img.shields.io/badge/-FreeBSD-%23870000?style=for-the-badge&logo=freebsd&logoColor=white)
 ![Red Hat](https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) -->
 
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Ponlponl123&data=followers,repositories,stars,commits)](https://github.com/Jurredr/github-widgetbox)
 
