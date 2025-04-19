@@ -27,7 +27,7 @@
   - **C++** with **Unreal Engine 4 & 5**
   - Some work in **Unity** as well
 - 🎨 Started deepening frontend skills with **CSS** and **JavaScript**
-- 📡 Hosted my own **RTMP server** for streaming content
+- 🤖 Deployed my first llm chat bot with simple ollama api
 
 ---
 
