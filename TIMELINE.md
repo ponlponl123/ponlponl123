@@ -10,7 +10,7 @@
 
 ---
 
-## 🐣 2020–2022: Game Dev Origins
+## 🐣 2020–2023: Game Dev Origins
 
 - Learned **PHP**, **JavaScript**, **CSS**, and **Python**
 - Built my first self-hosted **home server**
