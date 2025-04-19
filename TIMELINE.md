@@ -21,12 +21,6 @@
 
 ---
 
-## 🦣 2024: The Beginning
-
-- Explored **Linux**, **Docker**, and **Kubernetes** for server hosting and devops concepts
-
----
-
 ## 🎮 2023–2024: Game Dev Level-Up
 
 - 💀 Got back into developing indie horror games using:
@@ -34,6 +28,12 @@
   - Some work in **Unity** as well
 - 🎨 Started deepening frontend skills with **CSS** and **JavaScript**
 - 📡 Hosted my own **RTMP server** for streaming content
+
+---
+
+## 🦣 End of 2024: The Beginning
+
+- Explored **Linux**, **Docker**, and **Kubernetes** for server hosting and devops concepts
 
 ---
 
