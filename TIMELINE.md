@@ -3,13 +3,37 @@
 
 ---
 
-## 🐣 2020 - 2024: The Beginning
+## 🐣 2017–2020: My First Steps Into Programming
+
+- Started by self-hosting **Minecraft servers**
+- 🧱 Built custom Roblox games using **Roblox Studio** and **Lua** (2021–2022)
+
+---
+
+## 🐣 2020–2022: Game Dev Origins
 
 - Learned **PHP**, **JavaScript**, **CSS**, and **Python**
 - Built my first self-hosted **home server**
 - Deployed full-stack web apps using PHP and **PostgreSQL**
 - Set up my own **RTMP streaming server** for custom video broadcasting
-- Explored **Linux** briefly for server hosting
+- 💀 Built my first simple horror game with realistic graphics using **Unreal Engine Blueprints**
+- 🖥️ Created my own **game launcher** in **C#** with auto-update and storage features (2020–2021)
+
+---
+
+## 🦣 2024: The Beginning
+
+- Explored **Linux**, **Docker**, and **Kubernetes** for server hosting and devops concepts
+
+---
+
+## 🎮 2023–2024: Game Dev Level-Up
+
+- 💀 Got back into developing indie horror games using:
+  - **C++** with **Unreal Engine 4 & 5**
+  - Some work in **Unity** as well
+- 🎨 Started deepening frontend skills with **CSS** and **JavaScript**
+- 📡 Hosted my own **RTMP server** for streaming content
 
 ---
 
@@ -20,8 +44,8 @@
 - Adopted **TypeScript** and **modern frontend tooling**
 - Learned **Docker** & **Docker Swarm**:
   - Built and deployed my first **MySQL cluster** with Swarm for load balancing
-- Got serious with **Linux**:
-  - Fully migrated from Windows Server to **Linux-based infrastructure** (Alpine, Ubuntu, Debian, Red Hat)
+- Went full **Linux-native**:
+  - Migrated everything from **Windows Server** to **Linux-based infrastructure** (Alpine, Ubuntu, Debian, Red Hat) __(without any important data loss)__
 
 ---
 
@@ -37,36 +61,33 @@
   - Send to a **self-hosted FTP server**
 
 - Storage Evolution:
-  - Switched from **Longhorn**
-  - Now using **OpenEBS** as my primary K8s storage engine
+  - Switched from **Longhorn** → **OpenEBS** Kubernetes storage
+
+## 🎨 2022–2025: Artistic Journey & VTuber Tech
+
+- 🖌️ Learned to draw digital art and design character concepts
+- 🕹️ Studied and practiced **rigging Live2D VTuber models**
+- Integrated creative work into hobby and side projects, bridging art with code
 
 ---
 
-## 🔬 Experiments & Exploration
+## 🧠 Programming Language Knowledge
 
-- Tried deploying **ScyllaDB** for ultra-fast NoSQL workloads
-  - Learned that **SSD is essential** for NoSQL DBs like Scylla (running on old HDDs causes bottlenecks)
-- Built my **new mail server stack**:
-  - Fully secured with **Rspamd**, **TLS**, **firewalls**, and **Linux hardening**
-  - Migrated from old **hMailServer on Windows** to modern Linux setup
-  - Blocked phishing mail 🚫
-
----
-
-## 🧠 Languages I Know
-
-- 2024: `PHP`, `JavaScript`, `CSS`, `Python`
-- 2025: + `TypeScript`, `Go`, `Java`, `C`, `C++`, `C#`
+- 2020-2024: **PHP**, **JavaScript**, **CSS**, **Python**, **Lua**
+- 2024-2025: **TypeScript**, **Go**, **Java**, **C**, **C++**, **C#**
+- Learning: **Kotlin**, **Rust**
 
 ---
 
 ## 📌 Current Stack Highlights
 
-- ☸️ Kubernetes + Docker hybrid
+- ☘️ Kubernetes + Docker Swarm hybrid
 - 🐘 MariaDB Galera Cluster + Redis Cluster
-- 📨 Secure mail server with Rspamd
-- 🧰 Full-stack apps with Next.js + Bun
+- 🛰️ web apps with Next.js + Bun
 
 ---
+
+  > ⚡ Self-hosted. Self-made. Self-taught.  
+  > Always learning. Always building.
 
 _And I’m just getting started..._
