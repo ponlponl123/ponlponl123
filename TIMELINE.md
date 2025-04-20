@@ -83,7 +83,7 @@
 
 - ☘️ Kubernetes + Docker Swarm hybrid
 - 🐘 MariaDB Galera Cluster + Redis Cluster
-- 🛰️ web apps with Next.js + Bun
+- 🤖 High production performance llm on budget machine
 
 ---
 
