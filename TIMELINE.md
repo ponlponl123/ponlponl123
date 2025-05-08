@@ -10,7 +10,7 @@
 
 ---
 
-## 🐣 2020–2022: Game Dev Origins
+## 🐣 2020–2023: Game Dev Origins
 
 - Learned **PHP**, **JavaScript**, **CSS**, and **Python**
 - Built my first self-hosted **home server**
@@ -21,19 +21,19 @@
 
 ---
 
-## 🦣 2024: The Beginning
-
-- Explored **Linux**, **Docker**, and **Kubernetes** for server hosting and devops concepts
-
----
-
 ## 🎮 2023–2024: Game Dev Level-Up
 
 - 💀 Got back into developing indie horror games using:
   - **C++** with **Unreal Engine 4 & 5**
   - Some work in **Unity** as well
 - 🎨 Started deepening frontend skills with **CSS** and **JavaScript**
-- 📡 Hosted my own **RTMP server** for streaming content
+- 🤖 Deployed my first llm chat bot with simple ollama api
+
+---
+
+## 🦣 End of 2024: The Beginning
+
+- Explored **Linux**, **Docker**, and **Kubernetes** for server hosting and devops concepts
 
 ---
 
@@ -83,7 +83,7 @@
 
 - ☘️ Kubernetes + Docker Swarm hybrid
 - 🐘 MariaDB Galera Cluster + Redis Cluster
-- 🛰️ web apps with Next.js + Bun
+- 🤖 High production performance llm on budget machine
 
 ---
 
