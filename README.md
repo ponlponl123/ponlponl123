@@ -14,40 +14,49 @@ curl https://api.ponlponl123.com/v1/who-i-am 443
 
 ```JSON
 {
-  "status": 200,
   "message": "✨Glad to meet you!, 👋 I am Ponlponl123",
   "name": "Ponlponl123",
-  "location": "Thailand, Samutprakan 🌏",
-  "favoriteLanguages": [
-    "Go 💨",
-    "Typescript ⌨️",
-    "Python 🐍",
-    "Java 🍵"
-  ],
+  "location": {
+    "city": "Samutprakan",
+    "country": "Thailand",
+    "emoji": "🌏"
+  },
+  "favorite": {
+    "books": [
+      "คู่มือภาพฟิสิกส์ VISUAL GUIDE TO PHYSICS"
+    ],
+    "emoji": "🍰",
+    "languages": [
+      "Go 💨",
+      "Typescript ⌨️",
+      "Python 🐍",
+      "Java 🍵"
+    ]
+  },
   "hobbies": [
     "Gaming 🎮",
     "Coding 👨‍💻",
     "Music 🎵",
     "Reading 📚"
   ],
-  "funFact": "I once coded for 24 hours straight without caffeine! ☕🚫",
-  "favoriteEmoji": "🍰",
-  "favoriteBooks": [
-    "คู่มือภาพฟิสิกส์ VISUAL GUIDE TO PHYSICS"
-  ],
+  "funfact": "I once coded for 24 hours straight without caffeine! ☕🚫",
   "support_me": {
-    "kofi": "https://ko-fi.com/ponlponl123",
-    "patreon": "https://patreon.com/ponlponl123",
     "buymeacoffee": "https://buymeacoffee.com/ponlponl123",
+    "kofi": "https://ko-fi.com/ponlponl123",
+    "patreon": "https://www.patreon.com/ponlponl123",
     "streamlabs": "https://streamlabs.com/ponlponl123/tip"
   },
   "social": {
-    "twitter": "devpattarapong",
-    "github": "https://github.com/ponlponl123"
+    "gitHub": "https://github.com/ponlponl123",
+    "osu": "https://osu.ppy.sh/users/32776419",
+    "twitter": "ponlponl123"
   },
   "contact": {
-    "email": "itsme@ponlponl123.com",
-    "affiliation": "ponlponl123.th@live2d.pattarapong.dev"
+    "affiliation": {
+      "manager": "ponlponl123.th@live2d.pattarapong.dev",
+      "origin": "contact@live2d.pattarapong.dev"
+    },
+    "email": "itsme@ponlponl123.com"
   }
 }
 ```
