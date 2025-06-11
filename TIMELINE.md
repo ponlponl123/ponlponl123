@@ -73,7 +73,7 @@
 
 ## 🧠 Programming Language Knowledge
 
-- 2020-2024: **PHP**, **JavaScript**, **CSS**, **Python**, **Lua**
+- 2020-2024: **PHP**, **JavaScript**, **Python**, **Lua**
 - 2024-2025: **TypeScript**, **Go**, **Java**, **C**, **C++**, **C#**, **Rust**
 - Learning: **Kotlin**, **Dart**, **Swift**
 
